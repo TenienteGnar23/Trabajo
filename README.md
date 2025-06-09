@@ -1,1 +1,1 @@
-# Trabajo
+# Trabajo para paradigmas
